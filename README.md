@@ -52,7 +52,7 @@ This application is designed to run entirely client-side, simulating the Freemar
 
 1. Clone the Repository:
 ```bash
-git clone [YOUR_GITHUB_REPO_URL_HERE]
+git clone https://github.com/Bhanukiran889/emplyee_dashboard.git
 cd employee-directory
 ```
 2. Open in Browser:
